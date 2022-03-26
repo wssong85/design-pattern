@@ -23,7 +23,7 @@ public class StudyGroup implements Aggregate{
   }
 
   @Override
-  public StudyGroupIterator iterator() {
+  public Iterator iterator() {
     return new StudyGroupIterator(this);
   }
 }
