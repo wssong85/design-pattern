@@ -1,4 +1,4 @@
-package builder;
+package builder.example;
 
 public class Main {
 
